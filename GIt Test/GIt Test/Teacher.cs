@@ -8,7 +8,11 @@ namespace GIt_Test
 {
     internal class Teacher
     {
+
         int a = 10;
+
+        int aa = 15;
+
 
     }
 }
